@@ -1,0 +1,29 @@
+{
+  "name": "צומת 7",
+  "alternateName": "Tzomet 7",
+  "url": "https://www.tzomet7.band/",
+  "genre": "Israeli funk rock",
+  "foundingDate": "2021",
+  "description": "צומת 7 היא להקת רוק-פאנק ישראלית.",
+  "members": [
+    { "name": "גל שנל", "role": "תופים, כתיבה ולחן" },
+    { "name": "יונתן שנל", "role": "גיטרה ושירה" },
+    { "name": "עומר שדה", "role": "גיטרה ושירה" },
+    { "name": "עומר נבון", "role": "קלידים" },
+    { "name": "אלון יוכטמן", "role": "בס" }
+  ],
+  "sameAs": [
+    "https://www.tiktok.com/@tzomet7",
+    "https://open.spotify.com/artist/0xbUL00i9LZkVulbTAaIIn",
+    "https://www.youtube.com/@%D7%A6%D7%95%D7%9E%D7%AA7",
+    "https://www.instagram.com/tzomet7"
+  ],
+  "latestRelease": {
+    "title": "דרום אמריקה",
+    "type": "סינגל",
+    "url": "https://open.spotify.com/track/6yVaBqaBjORO6X8a1J2nVn"
+  },
+  "contact": {
+    "bookingEmail": "tsomet7booking@gmail.com"
+  }
+}

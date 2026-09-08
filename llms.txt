@@ -1,0 +1,12 @@
+# צומת 7 (Tzomet 7)
+
+Official website of the Israeli funk rock band צומת 7 (Tzomet 7), founded in 2021.
+
+Machine-readable band facts (name, members, genre, founding date, official
+social profiles, latest release, contact): https://www.tzomet7.band/band-info.json
+
+## Pages
+- Home: https://www.tzomet7.band/ — band intro and latest release
+- Concerts (לוח הופעות): https://www.tzomet7.band/#/concerts
+- Albums and clips (אלבומים וקליפים): https://www.tzomet7.band/#/albums
+- Contact (צרו קשר): https://www.tzomet7.band/#/contact
